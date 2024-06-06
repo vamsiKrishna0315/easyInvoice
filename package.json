@@ -1,0 +1,11 @@
+{
+  "name": "easyinvoice",
+  "version": "1.0.0",
+  "description": "making Invoice generation easy ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vamsi krishna",
+  "license": "ISC"
+}
